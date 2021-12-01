@@ -13,6 +13,7 @@ public class Main {
         Mouse2 m2 = new Mouse2("blue", 4);
         m2.clickLeft();
         m2.connectToBlueTooth();
+
         m2.clickRight();
 
 
